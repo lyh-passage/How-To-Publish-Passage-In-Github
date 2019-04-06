@@ -8,7 +8,7 @@
  </br>
  ## 方法二
  居中显示方法二
-<div align=center><img src="https://github.com/lyh-passage/How-To-Publish-Passage-In-Github/raw/master/pic/MT1.png"></div>
+<div align=center><img src="https://github.com/lyh-passage/How-To-Publish-Passage-In-Github/raw/master/pic/MT1.png" ></div>
  </br>
  ## 方法三
 宽度百分之50%显示
