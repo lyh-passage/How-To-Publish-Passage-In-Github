@@ -1,3 +1,6 @@
+# 怎样将文章发表在Github上
+怎样将文章发表在Github上:https://www.jianshu.com/p/7167122783b5  
+
 # 怎样在Markdown文件重插入图片并居中 
 
 ## 方法一
